@@ -5,7 +5,7 @@
 - Gain proficiency instantiating a class
 - Gain ability to discern when to implement `attr_accessor`, `attr_reader`, and
   `attr_writer`
-- Gain ability to discern when to define your own `attr_reader` (getter) and
+- Gain ability to discern when to define your own `attr_reader` (getter) and`
   `attr_writer` (setter) methods
 
 ## Introduction
